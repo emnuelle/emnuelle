@@ -37,4 +37,4 @@ Bem vindx ao meu portfólio, onde compartilho projetos e conquistas desta jornad
   </a>
 </div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=algum_tema)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=emnuelle&show_icons=true&theme=algum_tema)
