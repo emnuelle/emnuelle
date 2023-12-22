@@ -10,7 +10,7 @@ Ao longo do meu percurso, explorei o universo da criação web, adquirindo exper
 
 Bem vindx ao meu portfólio, onde compartilho projetos e conquistas desta jornada emocionante! 😊
 
-<img src="https://66.media.tumblr.com/b1ad91b5fa08a0723d0c18db6d7fb6a7/tumblr_mmbekl0nCq1rfjowdo1_500.gif" alt="gatinho correndo :)">
+<img src="https://66.media.tumblr.com/b1ad91b5fa08a0723d0c18db6d7fb6a7/tumblr_mmbekl0nCq1rfjowdo1_500.gif" alt="gatinho correndo :)" width="300" height="200">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,5 +36,3 @@ Bem vindx ao meu portfólio, onde compartilho projetos e conquistas desta jornad
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=emnuelle&show_icons=true&theme=algum_tema)
