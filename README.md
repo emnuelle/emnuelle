@@ -21,10 +21,6 @@ Bem vindx ao meu portfólio, onde compartilho projetos e conquistas desta jornad
 
 ##
 
-## Projetos Destacados
-- [Nome do Projeto 1](link_para_o_projeto) - Breve descrição.
-- [Nome do Projeto 2](link_para_o_projeto) - Breve descrição.
-
 <div> 
   <a href="https://www.instagram.com/blooming.art.emma/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
