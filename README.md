@@ -1,5 +1,5 @@
 ### Olá! 👋
-Me chamo Emanuelle, estudante do segundo ano de Engenharia de Software, entusiasta apaixonada por resolver problemas e criar soluções inovadoras. 
+Me chamo Emanuelle, estudante do segundo ano de Engenharia de Software, entusiasta apaixonada por resolver problemas e criar soluções inovadoras. :)
 
 🚀 Atualmente, estou focada em aprimorar minhas habilidades em:
 - Desenvolvimento Front-End com ReactJS
