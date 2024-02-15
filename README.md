@@ -6,8 +6,6 @@ Me chamo Emanuelle, estudante do segundo ano de Engenharia de Software, entusias
 - Programação em Python
 - Design de interfaces utilizando Figma
 
-Ao longo do meu percurso, explorei o universo da criação web, adquirindo experiência prática e conhecimentos sólidos. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
-
 Bem vindx ao meu portfólio! 😊
 
 <img src="https://66.media.tumblr.com/b1ad91b5fa08a0723d0c18db6d7fb6a7/tumblr_mmbekl0nCq1rfjowdo1_500.gif" alt="gatinho correndo :)" width="300" height="200">
