@@ -1,9 +1,7 @@
 ### Olá! 👋
 Me chamo Emanuelle, estudante do segundo ano de Engenharia de Software. :)
 
-Bem vindx ao meu portfólio! 😊
-
-<img src="https://66.media.tumblr.com/b1ad91b5fa08a0723d0c18db6d7fb6a7/tumblr_mmbekl0nCq1rfjowdo1_500.gif" alt="gatinho correndo :)" width="300" height="200">
+Bem vindos ao meu portfólio! 😊
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
